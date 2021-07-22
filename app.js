@@ -12,3 +12,5 @@ app.get('/manutencao', (req , res) =>{
 
 app.listen(3000, () => console.log ("Servidor foi iniciado"));
 
+
+
